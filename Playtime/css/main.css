@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/p.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(151, 169, 202);
+}
+ul{
+    float : left;
+}
+li {
+    display: inline;
+    padding: 5px;
+    margin: 5px;
+}
+
+#List {
+    background-color: rgb(31, 35, 173);
+}
+
+/* h1 {
+    text-align: center;
+} */
+
+#welcome {
+    margin-left: 40%;
+}
+
+#proceed {
+   text-align: center;
+}
+
+button {
+    border-radius: 20px ;
+    width: 200px;
+    padding: 5px;
+    background-color: rgb(102, 128, 201);
+    border-top: none;
+}
+
+a {
+    color: rgb(222, 223, 231);
+    text-decoration: none;
+}
